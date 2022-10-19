@@ -1,8 +1,9 @@
-Nama: Alif Nur Fathlii Amarta
+# Nama: Azhyka Rizki Ramadhan
 
-NIM: 312210326
+# Kelas: TI.22.A3
 
-Kelas: TI.22.A3
+# NIM: 312210287
+
 
 # Latihan Bahasa Pemograman menggunakan Python 
 
@@ -10,35 +11,32 @@ Kelas: TI.22.A3
 
 Pertama kita akan menjalankan perintah yang palih dasar yaitu 'print( )', untuk string gunakan tanda pentik seperti 'print(" ")'.
 
-![image](https://user-images.githubusercontent.com/115516820/196467092-3a5448de-6bfe-4e84-8ef8-dfd6274cd19d.png)
+<img width="267" alt="Screenshot 2022-10-19 131301" src="https://user-images.githubusercontent.com/115516688/196611274-1ff089a9-1d37-4ca6-b793-8ce2d04b380d.png">
 
-Lalu hasil outputnya akan menghasilkan kata yang diketik.
+ketika kita "RUN" hasil outputnya akan berupa kata yang kita ketik.
 
-![image](https://user-images.githubusercontent.com/115516820/196467593-c2d60a75-9dd0-4df1-80da-6b941088a0cf.png)
+<img width="654" alt="Screenshot 2022-10-19 131402" src="https://user-images.githubusercontent.com/115516688/196611418-422bc12f-06dc-4844-b3e6-984e0d2ea271.png">
 
 # Latihan 2 
 
-Setelah itu kita akan pengoperasian angka contoh nya penjumlahan.
+Langkah pertama kita membuat input angka yang ingin dimasukan.
 
-Pertama masukkan angka terlebih dulu. 
+<img width="206" alt="Screenshot 2022-10-19 131712" src="https://user-images.githubusercontent.com/115516688/196611935-194a5c96-a58b-43c0-8723-b95424f465f2.png">
 
-![image](https://user-images.githubusercontent.com/115516820/196470091-6595f434-1597-43cb-8a19-27ef7deab0ff.png)
+Setelah itu gunakan command "print"
 
-lalu gunakan perintah print
+<img width="221" alt="Screenshot 2022-10-19 131840" src="https://user-images.githubusercontent.com/115516688/196612006-f785e13d-1d42-46b2-b536-e7ae7e229cf4.png">
 
-![image](https://user-images.githubusercontent.com/115516820/196470712-77fc2483-c842-4188-921c-7b0be87ecfa4.png)
+Lalu masukan angka yang ingin dijumlahkan,hasilnya seperti dibawah ini:
 
-Hasilnya:
+<img width="713" alt="Screenshot 2022-10-19 132111" src="https://user-images.githubusercontent.com/115516688/196612276-29dfbe95-7a3d-4e09-9f06-03e70d55835a.png">
 
-![image](https://user-images.githubusercontent.com/115516820/196472277-5db856ab-1a2a-4743-9203-f28819937da4.png)
 
 # Latihan 3
 
-Kita akan mempelajari input,konversi nilai variable,format 
-
 Python juga mempunyai fungsi 'input( )' cara penggunaannya adalah
 
-![image](https://user-images.githubusercontent.com/115516820/196474042-c376a90a-640c-4e2f-b335-adfd38c61196.png)
+<img width="219" alt="Screenshot 2022-10-19 133546" src="https://user-images.githubusercontent.com/115516688/196614884-822fe122-42dd-489d-9202-624c93db6006.png">
 
 lalu konversi kan variable nya menjadi angka integer, dengan perintah 'int( )'
 
@@ -51,4 +49,4 @@ print hasil operasi kedua variable dengan string format
 format digunakan untuk menggabungkan variable ke string. operator '%' selain digunakan untuk string formatting, operator ini juga digunakan untuk menghitung operasi 'sisa bagi'
 
 
-Sekian dari saya, Jika ada yang salah mohon dimaafkan
+# Sekian terimakasih
