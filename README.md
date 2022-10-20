@@ -1,13 +1,13 @@
-# Nama: Azhyka Rizki Ramadhan
+#### Nama: Azhyka Rizki Ramadhan
 
-# Kelas: TI.22.A3
+#### Kelas: TI.22.A3
 
-# NIM: 312210287
+#### NIM: 312210287
 
 
 # Latihan Bahasa Pemograman menggunakan Python 
 
-# Latihan 1
+## Latihan 1
 
 Pertama kita akan menjalankan perintah yang palih dasar yaitu 'print( )', untuk string gunakan tanda pentik seperti 'print(" ")'.
 
@@ -17,7 +17,7 @@ ketika kita "RUN" hasil outputnya akan berupa kata yang kita ketik.
 
 <img width="654" alt="Screenshot 2022-10-19 131402" src="https://user-images.githubusercontent.com/115516688/196611418-422bc12f-06dc-4844-b3e6-984e0d2ea271.png">
 
-# Latihan 2 
+## Latihan 2 
 
 Langkah pertama kita membuat input angka yang ingin dimasukan.
 
@@ -32,7 +32,7 @@ Lalu masukan angka yang ingin dijumlahkan,hasilnya seperti dibawah ini:
 <img width="713" alt="Screenshot 2022-10-19 132111" src="https://user-images.githubusercontent.com/115516688/196612276-29dfbe95-7a3d-4e09-9f06-03e70d55835a.png">
 
 
-# Latihan 3
+## Latihan 3
 
 Python juga mempunyai fungsi 'input( )' cara penggunaannya adalah
 
